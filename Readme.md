@@ -1,5 +1,7 @@
-# Particle41 DevOps Challenge Submission
-  - Access the application via [this URL](a972394ff4e4246e6a385b3e84b72a74-2107980581.ap-south-1.elb.amazonaws.com)
+Particle41 DevOps Challenge Submission
+
+**Access the Application**
+  - [Click here to access the SimpleTimeService] (http://a972394ff4e4246e6a385b3e84b72a74-2107980581.ap-south-1.elb.amazonaws.com)
 
 ## 🌟 Overview
 
